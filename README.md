@@ -20,7 +20,7 @@ Simply open the Unity scene and import the necessary plugins (Tensorflow and Eas
 ## *Example Demo*
 I have prepared a windows executable. Simply click and run. The system assumes your device has two camera (Front and Back). If you have only one camera, you will have to change the camera parameter to 1 in the Unity app and export it again.
 
-![Screenshot](MR-Inspection.png)
+![Screenshot](MR-inspection-2.png)
 
 ## *Original Paper:*
 Karaaslan, E., Bagci, U., & Catbas, F. N. (2019). Artificial Intelligence Assisted Infrastructure Assessment using Mixed Reality Systems. Transportation Research Record. https://doi.org/10.1177/0361198119839988
