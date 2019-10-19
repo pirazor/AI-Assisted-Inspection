@@ -1,7 +1,23 @@
 # AI-Assisted-Inspection
 
 ## *Introduction:*
-A smart visual inspection assistance device will be developed by integrating AI automation and computer vision technologies into a customized mixed reality headset. With the help of this wearable device, inspectors will be able to perform fast, accurate, and quantified assessment of civil infrastructures. The AI system integrated in this innovation will continuously assist the inspectors during their routine and in-depth visual inspections, by displaying real-time damage information in front of their eyes, such as crack width, length, count, delamination area, rusting, etc.  The inspection data will be later exported to a compatible format for AASHTOWARE, thereby reducing time needed for reporting. Besides automatic detection of defects, the device will also be capable of helping inspectors access hard to reach locations by either magnifying the view of a far location, or, alternatively, by connecting to an unmanned aerial system. Furthermore, if the inspector needs assistance from the central office, the remote expert connection will share the inspector’s view with the central office. 
+The current practice uses conventional measurement tools to assess the cracks, spalling or other damages on the concrete surfaces.
+Therefore, it is very subjective and unreliable. This project introduces a smart infrastruction inspection tool for
+wearable devices using Mixed Reality and Artificial Intelligence to assist the inspector in collecting real-time information about the concrete damage to enable objective, reliable inspection.
+
+
+PLEASE CITE THE ORIGINAL PAPER IF YOU WANT THE WORK USEFUL TO YOUR WORK ! 
+
+## *Pre-requisites:*
+1-) Unity 2017.4 and above: https://store.unity.com/download-nuo
+2-) Unity TensorFlow Plugin ([Download here](https://s3.amazonaws.com/unity-ml-agents/0.5/TFSharpPlugin.unitypackage))
+3-) EasyAR Unity SDK: https://www.easyar.com/view/download.html
+
+## *How to Use:*
+Simply open the Unity scene and import the necessary plugins (Tensorflow and EasyAR). You can export the inspection app to your desired platform (Android, Windows, IOS)
+
+## *Example Demo*
+I have prepared a windows executable. Simply click and run. The system assumes your device has two camera (Front and Back). If you have only one camera, you will have to change the camera parameter to 1 in the Unity app and export it again.
 
 ## *Original Paper:*
 Karaaslan, E., Bagci, U., & Catbas, F. N. (2019). Artificial Intelligence Assisted Infrastructure Assessment using Mixed Reality Systems. Transportation Research Record. https://doi.org/10.1177/0361198119839988
