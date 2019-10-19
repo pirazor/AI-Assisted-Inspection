@@ -10,8 +10,8 @@ wearable devices using Mixed Reality and Artificial Intelligence to assist the i
 PLEASE CITE THE ORIGINAL PAPER IF YOU WANT THE WORK USEFUL TO YOUR WORK ! 
 
 ## *Pre-requisites:*
-1-) Unity 2017.4 and above: https://store.unity.com/download-nuo
-2-) Unity TensorFlow Plugin ([Download here](https://s3.amazonaws.com/unity-ml-agents/0.5/TFSharpPlugin.unitypackage))
+1-) Unity 2017.4 and above: https://store.unity.com/download-nuo \
+2-) Unity TensorFlow Plugin ([Download here](https://s3.amazonaws.com/unity-ml-agents/0.5/TFSharpPlugin.unitypackage)) \
 3-) EasyAR Unity SDK: https://www.easyar.com/view/download.html
 
 ## *How to Use:*
