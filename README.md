@@ -7,7 +7,7 @@ wearable devices using Mixed Reality and Artificial Intelligence to assist the i
 
 ![Screenshot](AR-Desc3.png)
 
-PLEASE CITE THE ORIGINAL PAPER IF YOU WANT THE WORK USEFUL TO YOUR WORK ! 
+PLEASE CITE THE ORIGINAL PAPER IF YOU FIND OUR WORK USEFUL TO YOUR RESEARCH ! 
 
 ## *Pre-requisites:*
 1-) Unity 2017.4 and above: https://store.unity.com/download-nuo \
